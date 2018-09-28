@@ -34,6 +34,7 @@ void * ejecutar(void *flag);
 
 pthread_mutex_t llave;
 
+
 int main()
 {
     SetConsoleTitle("\"Damas in C\"");
@@ -120,6 +121,7 @@ int desplazamiento(int *x, int *y, int tecla, int flag, int tablero[DIM][DIM])
     switch(tecla)
     {
     case ABA:
+        Sleep(100);
         (*y) += 3;
         if((*y)> 22)
         {
@@ -127,6 +129,7 @@ int desplazamiento(int *x, int *y, int tecla, int flag, int tablero[DIM][DIM])
         }
         break;
     case ARR:
+        Sleep(100);
         (*y) -= 3;
         if((*y) < 1)
         {
@@ -134,6 +137,7 @@ int desplazamiento(int *x, int *y, int tecla, int flag, int tablero[DIM][DIM])
         }
         break;
     case DER:
+        Sleep(100);
         (*x) += 9;
         if((*x) > 73)
         {
@@ -141,6 +145,7 @@ int desplazamiento(int *x, int *y, int tecla, int flag, int tablero[DIM][DIM])
         }
         break;
     case IZQ:
+        Sleep(100);
         (*x) -= 9;
         if((*x) < 10)
         {
@@ -207,7 +212,7 @@ void posicion_gotoXY(int i, int j, int tipo, int tablero[DIM][DIM])
             y += 3;
             x += 9;
             gotoxy(x,y);
-            ficha(x,y,VIOLET);
+            ficha(x,y,BLACK);
             x -= 18;
             gotoxy(x,y);
             ficha(x,y,GREEN);
@@ -241,7 +246,7 @@ void posicion_gotoXY(int i, int j, int tipo, int tablero[DIM][DIM])
             y -= 3;
             x -= 9;
             gotoxy(x,y);
-            ficha(x,y,VIOLET);
+            ficha(x,y,BLACK);
             x += 18;
             gotoxy(x,y);
             ficha(x,y,GREEN);
@@ -285,16 +290,20 @@ void moverFicha(int x, int y, int movimiento, int tablero[DIM][DIM], int fichaC)
         case MOV:
             if(contador%2 == 0)
             {
+                system("color");
+                Sleep(100);
                 gotoxy(x,y);
-                ficha(x,y,VIOLET);
+                ficha(x,y,BLACK);
                 x += movimiento;
                 gotoxy(x,y);
                 ficha(x,y,GREEN);
             }
             else
             {
+                system("color");
+                Sleep(100);
                 gotoxy(x,y);
-                ficha(x,y,VIOLET);
+                ficha(x,y,BLACK);
                 x -= movimiento;
                 gotoxy(x,y);
                 ficha(x,y,GREEN);
@@ -641,10 +650,9 @@ void reloj()
                 Sleep(1000);
                 // IMPRIMIR NUESTRO CRONOMETRO
                 fflush(stdin);
-                system("color");
+                color(WHITE);
                 gotoxy(37,31);
-                printf(" %.2i : %.2i : %i ", hora, minuto, segundo);
-                ///pthread_exit(0);
+                printf(" %.2i : %.2i : %i "RESET, hora, minuto, segundo);
             }
         }
     }
