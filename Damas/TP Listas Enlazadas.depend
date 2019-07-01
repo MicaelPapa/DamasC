@@ -1,0 +1,761 @@
+# depslib dependency file v1.0
+1524786584 source:c:\users\nacho\desktop\codeblocks\c\tp listas enlazadas\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1536447278 source:c:\users\nacho\desktop\codeblocks\c\tp listas enlazadas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<winuser.h>
+	"listas.h"
+
+1536323811 source:c:\users\nacho\desktop\codeblocks\c\tp listas enlazadas\listas.c
+	"listas.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1536002141 c:\users\nacho\desktop\codeblocks\c\tp listas enlazadas\listas.h
+
+1524786584 source:c:\users\alumno\desktop\damas\tp listas enlazadas\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1535940452 source:c:\users\alumno\desktop\damas\tp listas enlazadas\listas.c
+	"listas.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1535728092 c:\users\alumno\desktop\damas\tp listas enlazadas\listas.h
+
+1536443105 source:c:\users\nacho\desktop\codeblocks\c\tp listas enlazadas\damas.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"gotoxy.h"
+	"damas.h"
+
+1524786584 c:\users\nacho\desktop\codeblocks\c\tp listas enlazadas\gotoxy.h
+
+1536442582 c:\users\nacho\desktop\codeblocks\c\tp listas enlazadas\damas.h
+
+1536443105 source:c:\users\nacho\desktop\trabajo final 2 cuatri\tp listas enlazadas\damas.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"gotoxy.h"
+	"damas.h"
+
+1524786584 c:\users\nacho\desktop\trabajo final 2 cuatri\tp listas enlazadas\gotoxy.h
+
+1536442582 c:\users\nacho\desktop\trabajo final 2 cuatri\tp listas enlazadas\damas.h
+
+1524786584 source:c:\users\nacho\desktop\trabajo final 2 cuatri\tp listas enlazadas\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1536323811 source:c:\users\nacho\desktop\trabajo final 2 cuatri\tp listas enlazadas\listas.c
+	"listas.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1536002141 c:\users\nacho\desktop\trabajo final 2 cuatri\tp listas enlazadas\listas.h
+
+1538149378 source:c:\users\nacho\desktop\trabajo final 2 cuatri\tp listas enlazadas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<winuser.h>
+	"listas.h"
+
+1536443106 source:c:\users\alumno\desktop\tp listas enlazadas\damas.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"gotoxy.h"
+	"damas.h"
+
+1524786584 c:\users\alumno\desktop\tp listas enlazadas\gotoxy.h
+
+1536442584 c:\users\alumno\desktop\tp listas enlazadas\damas.h
+
+1524786584 source:c:\users\alumno\desktop\tp listas enlazadas\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1539353834 source:c:\users\alumno\desktop\tp listas enlazadas\listas.c
+	"listas.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1536002142 c:\users\alumno\desktop\tp listas enlazadas\listas.h
+
+1539353939 source:c:\users\alumno\desktop\tp listas enlazadas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<winuser.h>
+	"listas.h"
+
+1540859786 source:c:\users\usuario\desktop\programacion 2\listas tp final\damas.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"gotoxy.h"
+	"damas.h"
+
+1540859786 c:\users\usuario\desktop\programacion 2\listas tp final\gotoxy.h
+
+1540859786 c:\users\usuario\desktop\programacion 2\listas tp final\damas.h
+
+1540859786 source:c:\users\usuario\desktop\programacion 2\listas tp final\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1540859786 source:c:\users\usuario\desktop\programacion 2\listas tp final\listas.c
+	"listas.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1540859786 c:\users\usuario\desktop\programacion 2\listas tp final\listas.h
+
+1540958767 source:c:\users\usuario\desktop\programacion 2\listas tp final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<winuser.h>
+	"listas.h"
+
+1539918073 source:c:\users\nacho\desktop\menuenzo\damas.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"gotoxy.h"
+	"damas.h"
+
+1539918073 c:\users\nacho\desktop\menuenzo\gotoxy.h
+
+1539918073 c:\users\nacho\desktop\menuenzo\damas.h
+
+1539918073 source:c:\users\nacho\desktop\menuenzo\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1539919952 source:c:\users\nacho\desktop\menuenzo\listas.c
+	"listas.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1539919195 c:\users\nacho\desktop\menuenzo\listas.h
+
+1539950645 source:c:\users\nacho\desktop\menuenzo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<winuser.h>
+	"listas.h"
+
+1539952879 source:c:\users\alumno\desktop\meno\damas.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"gotoxy.h"
+	"damas.h"
+
+1539952890 c:\users\alumno\desktop\meno\gotoxy.h
+
+1539952913 c:\users\alumno\desktop\meno\damas.h
+
+1539952899 source:c:\users\alumno\desktop\meno\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1539952884 source:c:\users\alumno\desktop\meno\listas.c
+	"listas.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1539952917 c:\users\alumno\desktop\meno\listas.h
+
+1539964508 source:c:\users\alumno\desktop\meno\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<winuser.h>
+	"listas.h"
+
+1540218046 source:c:\users\usuario\desktop\final\damas.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"gotoxy.h"
+	"damas.h"
+
+1540218054 c:\users\usuario\desktop\final\gotoxy.h
+
+1540218042 c:\users\usuario\desktop\final\damas.h
+
+1540218050 source:c:\users\usuario\desktop\final\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1540220875 source:c:\users\usuario\desktop\final\listas.c
+	"listas.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1540218064 c:\users\usuario\desktop\final\listas.h
+
+1540221382 source:c:\users\usuario\desktop\final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<winuser.h>
+	"listas.h"
+
+1540553900 source:c:\users\nacho\desktop\menuenzo4\damas.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"gotoxy.h"
+	"damas.h"
+
+1540553900 c:\users\nacho\desktop\menuenzo4\gotoxy.h
+
+1540553900 c:\users\nacho\desktop\menuenzo4\damas.h
+
+1540553900 source:c:\users\nacho\desktop\menuenzo4\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1540553900 source:c:\users\nacho\desktop\menuenzo4\listas.c
+	"listas.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1540553900 c:\users\nacho\desktop\menuenzo4\listas.h
+
+1540563246 source:c:\users\nacho\desktop\menuenzo4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<winuser.h>
+	"listas.h"
+
+1540821994 source:c:\users\usuario\desktop\meno\damas.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"gotoxy.h"
+	"damas.h"
+
+1540821994 c:\users\usuario\desktop\meno\gotoxy.h
+
+1540821994 c:\users\usuario\desktop\meno\damas.h
+
+1540821994 source:c:\users\usuario\desktop\meno\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1540827081 source:c:\users\usuario\desktop\meno\listas.c
+	"listas.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1540827005 c:\users\usuario\desktop\meno\listas.h
+
+1540826813 source:c:\users\usuario\desktop\meno\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<winuser.h>
+	"listas.h"
+
+1540995058 source:c:\users\usuario\desktop\menoo\damas.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"gotoxy.h"
+	"damas.h"
+
+1540995058 c:\users\usuario\desktop\menoo\gotoxy.h
+
+1540995058 c:\users\usuario\desktop\menoo\damas.h
+
+1540995058 source:c:\users\usuario\desktop\menoo\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1540995058 source:c:\users\usuario\desktop\menoo\listas.c
+	"listas.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1540995058 c:\users\usuario\desktop\menoo\listas.h
+
+1540997775 source:c:\users\usuario\desktop\menoo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<winuser.h>
+	"listas.h"
+
+1541162592 source:c:\users\alumno\desktop\meno si\damas.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"gotoxy.h"
+	"damas.h"
+
+1541162592 c:\users\alumno\desktop\meno si\gotoxy.h
+
+1541162592 c:\users\alumno\desktop\meno si\damas.h
+
+1541162592 source:c:\users\alumno\desktop\meno si\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1541162592 source:c:\users\alumno\desktop\meno si\listas.c
+	"listas.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1541165871 c:\users\alumno\desktop\meno si\listas.h
+
+1541164619 source:c:\users\alumno\desktop\meno si\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<winuser.h>
+	"listas.h"
+
+1541957342 source:c:\users\usuario\desktop\yafuee\damas.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"gotoxy.h"
+	"damas.h"
+
+1541957342 c:\users\usuario\desktop\yafuee\gotoxy.h
+
+1541957342 c:\users\usuario\desktop\yafuee\damas.h
+
+1541957342 source:c:\users\usuario\desktop\yafuee\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1542050871 source:c:\users\usuario\desktop\yafuee\listas.c
+	"listas.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1541957342 c:\users\usuario\desktop\yafuee\listas.h
+
+1542063553 source:c:\users\usuario\desktop\yafuee\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<winuser.h>
+	"listas.h"
+
+1541431760 source:c:\users\usuario\desktop\damas v.10(imprime fichas)\damas.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"gotoxy.h"
+	"damas.h"
+
+1541431760 c:\users\usuario\desktop\damas v.10(imprime fichas)\gotoxy.h
+
+1541431760 c:\users\usuario\desktop\damas v.10(imprime fichas)\damas.h
+
+1541431760 source:c:\users\usuario\desktop\damas v.10(imprime fichas)\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1541431760 source:c:\users\usuario\desktop\damas v.10(imprime fichas)\listas.c
+	"listas.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1541432325 c:\users\usuario\desktop\damas v.10(imprime fichas)\listas.h
+
+1541432902 source:c:\users\usuario\desktop\damas v.10(imprime fichas)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<winuser.h>
+	"listas.h"
+
+1541441564 source:c:\users\enzo\desktop\tp listas enlazadas\damas.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"gotoxy.h"
+	"damas.h"
+
+1541441564 c:\users\enzo\desktop\tp listas enlazadas\gotoxy.h
+
+1541441566 c:\users\enzo\desktop\tp listas enlazadas\damas.h
+
+1541441564 source:c:\users\enzo\desktop\tp listas enlazadas\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1541441566 source:c:\users\enzo\desktop\tp listas enlazadas\listas.c
+	"listas.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1541441566 c:\users\enzo\desktop\tp listas enlazadas\listas.h
+
+1541446887 source:c:\users\enzo\desktop\tp listas enlazadas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<winuser.h>
+	"listas.h"
+
+1541763550 source:c:\users\alumno\desktop\aaaa\damas.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"gotoxy.h"
+	"damas.h"
+
+1541763550 c:\users\alumno\desktop\aaaa\gotoxy.h
+
+1541763550 c:\users\alumno\desktop\aaaa\damas.h
+
+1541763550 source:c:\users\alumno\desktop\aaaa\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1541770143 source:c:\users\alumno\desktop\aaaa\listas.c
+	"listas.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1541763550 c:\users\alumno\desktop\aaaa\listas.h
+
+1541773386 source:c:\users\alumno\desktop\aaaa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<winuser.h>
+	"listas.h"
+
+1542309230 source:c:\users\nacho\desktop\menuenzo terminado\damas.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"gotoxy.h"
+	"damas.h"
+	"game.h"
+	<ctype.h>
+
+1541445693 c:\users\nacho\desktop\menuenzo terminado\gotoxy.h
+
+1542307795 c:\users\nacho\desktop\menuenzo terminado\damas.h
+
+1541445693 source:c:\users\nacho\desktop\menuenzo terminado\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"gotoxy.h"
+
+1542066427 source:c:\users\nacho\desktop\menuenzo terminado\listas.c
+	"listas.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1542066427 c:\users\nacho\desktop\menuenzo terminado\listas.h
+
+1541445693 c:\users\nacho\desktop\menuenzo terminado\game.h
+
+1541445693 source:c:\users\nacho\desktop\menuenzo terminado\game.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"gotoxy.h"
+	"damas.h"
+	"game.h"
+
+1542309682 source:c:\users\nacho\desktop\menuenzo terminado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<winuser.h>
+	<conio.h>
+	<pthread.h>
+	<semaphore.h>
+	<sched.h>
+	<unistd.h>
+	<ctype.h>
+	<time.h>
+	"gotoxy.h"
+	"damas.h"
+	"game.h"
+	"reloj.h"
+	"listas.h"
+
+1541445693 c:\users\nacho\desktop\menuenzo terminado\reloj.h
+
+1541445693 source:c:\users\nacho\desktop\menuenzo terminado\reloj.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"reloj.h"
+
+1541445693 source:c:\users\nacho\desktop\menuenzo terminado\resource.rc
+
+1542332646 source:c:\users\micae\onedrive\desktop\damas\damas.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"gotoxy.h"
+	"damas.h"
+	"game.h"
+	<ctype.h>
+
+1542326064 c:\users\micae\onedrive\desktop\damas\gotoxy.h
+
+1542336154 c:\users\micae\onedrive\desktop\damas\damas.h
+
+1542338566 c:\users\micae\onedrive\desktop\damas\game.h
+
+1542338566 source:c:\users\micae\onedrive\desktop\damas\game.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"gotoxy.h"
+	"damas.h"
+	"game.h"
+
+1542326064 source:c:\users\micae\onedrive\desktop\damas\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"gotoxy.h"
+
+1542339091 source:c:\users\micae\onedrive\desktop\damas\listas.c
+	"listas.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1542339091 c:\users\micae\onedrive\desktop\damas\listas.h
+
+1542326065 source:c:\users\micae\onedrive\desktop\damas\reloj.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"reloj.h"
+
+1542326065 c:\users\micae\onedrive\desktop\damas\reloj.h
+
+1542326065 source:c:\users\micae\onedrive\desktop\damas\resource.rc
+
+1542338766 source:c:\users\micae\onedrive\desktop\damas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<winuser.h>
+	<conio.h>
+	<pthread.h>
+	<semaphore.h>
+	<sched.h>
+	<unistd.h>
+	<ctype.h>
+	<time.h>
+	"gotoxy.h"
+	"damas.h"
+	"game.h"
+	"reloj.h"
+	"listas.h"
+
+1542334394 source:c:\users\micae\onedrive\desktop\damas\estetica.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<winuser.h>
+	<conio.h>
+	<pthread.h>
+	<semaphore.h>
+	<sched.h>
+	<unistd.h>
+	<ctype.h>
+	<time.h>
+	"gotoxy.h"
+	"damas.h"
+	"game.h"
+	"reloj.h"
+	"listas.h"
+
+1542332646 source:c:\users\micae\onedrive\desktop\programacion\damas\damas.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"gotoxy.h"
+	"damas.h"
+	"game.h"
+	<ctype.h>
+
+1542326064 c:\users\micae\onedrive\desktop\programacion\damas\gotoxy.h
+
+1542336154 c:\users\micae\onedrive\desktop\programacion\damas\damas.h
+
+1542338566 c:\users\micae\onedrive\desktop\programacion\damas\game.h
+
+1542334394 source:c:\users\micae\onedrive\desktop\programacion\damas\estetica.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<winuser.h>
+	<conio.h>
+	<pthread.h>
+	<semaphore.h>
+	<sched.h>
+	<unistd.h>
+	<ctype.h>
+	<time.h>
+	"gotoxy.h"
+	"damas.h"
+	"game.h"
+	"reloj.h"
+	"listas.h"
+
+1542326065 c:\users\micae\onedrive\desktop\programacion\damas\reloj.h
+
+1542339091 c:\users\micae\onedrive\desktop\programacion\damas\listas.h
+
+1542338566 source:c:\users\micae\onedrive\desktop\programacion\damas\game.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"gotoxy.h"
+	"damas.h"
+	"game.h"
+
+1542326064 source:c:\users\micae\onedrive\desktop\programacion\damas\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"gotoxy.h"
+
+1542339091 source:c:\users\micae\onedrive\desktop\programacion\damas\listas.c
+	"listas.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1544581528 source:c:\users\micae\onedrive\desktop\programacion\damas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<winuser.h>
+	<conio.h>
+	<pthread.h>
+	<semaphore.h>
+	<sched.h>
+	<unistd.h>
+	<ctype.h>
+	<time.h>
+	"gotoxy.h"
+	"damas.h"
+	"game.h"
+	"reloj.h"
+	"listas.h"
+
+1542326065 source:c:\users\micae\onedrive\desktop\programacion\damas\reloj.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"reloj.h"
+
+1542326065 source:c:\users\micae\onedrive\desktop\programacion\damas\resource.rc
+

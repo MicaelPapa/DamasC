@@ -20,15 +20,18 @@
 #define YELLOW                  14
 #define WHITE                   15
 
-///Constantes flechas:
-#define DER 77
-#define IZQ 75
-#define ARR 72
-#define ABA 80
+///Constantes de Inicio:
+#define XX 20
+#define YY 12
+#define LIMSUP 12
+#define LIMINF 18
+
 
 ///Constantes teclas:
 #define ENTER 13
 #define ESCAPE 27
+#define SPACE 32
+#define ASTERISCO 42
 
 ///Constantes area de juego:
 #define SUP_I 201
@@ -49,17 +52,34 @@
 ///Constantes ficha:
 #define FICHA 219
 #define SHADOW 177
+#define SHADOWDOS 176
+#define REINA 178
 
+///Constantes Menu Colores Pause
+#define OPCION_SUP 30
+#define OPCION_INF 32
 
 ///Prototipos
+HWND GetConsoleHwnd(void);
+void introDamas();
+void tituloDamas1();
+void tituloDamas(int y, int vel);
 void indices();
 void tablero_damas();
-void imprimirFichas(int tablero[DIM][DIM]);
-void ficha(int x, int y, int tono);
-void casillero(int x, int y, int tono);
+void imprimirFichas(int[DIM][DIM]);
+void ficha(int,int,int);
+void casillero(int,int,int);
 void esquinas_tablero();
-void casillero_auxiliar(int x, int y, int tono);
-void modificar_esquinas(int x, int y);
+void casillero_auxiliar(int,int,int);
+void modificar_esquinas(int,int);
 void cuadroEstructura();
+void fichaMaster(int x, int y, int tono);
+void playerTwoWin();
+void playerOneWin();
+void tiedPlayers();
+void timeIsOver();
+void logoPause();
+void menuColoresPausa(int y);
+
 
 #endif // DAMAS_H_INCLUDED
