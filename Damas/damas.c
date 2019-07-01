@@ -106,6 +106,7 @@ void introDamas()
             printf("%c",HORIZ);
         }
     }
+
     tituloDamas1();
 
     while(bandera == 1)
